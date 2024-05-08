@@ -1,6 +1,6 @@
-# Android Coding Test Using Movies Database API
+#  An Android App with Movie Database API Integration
 
-This project is a coding test for the company I applied to. It utilizes the Movies Database API to fetch and display movie information. The app is built using Kotlin, Dagger Hilt for dependency injection, MVVM architecture, and Retrofit for network requests.
+ Utilizes the Movies Database API to fetch and display movie information. The app is built using Kotlin, Dagger Hilt for dependency injection, MVVM architecture, and Retrofit for network requests.
 
 ## Installation
 
