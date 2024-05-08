@@ -20,7 +20,9 @@ fun HomeScreen(navController: NavHostController) {
     val movieListViewModel = hiltViewModel<MovieListViewModel>()
     val movieState = movieListViewModel.movieListState.collectAsState().value
 
-    Scaffold() {
+    Scaffold(
+        
+    ) {
         Box(modifier = Modifier
             .fillMaxSize()
             .padding(it)) {
